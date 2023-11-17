@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerificadorParImpar", "VerificadorParImpar.csproj", "{D03EDB29-A019-478D-8F07-ACF1EA8F9843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D03EDB29-A019-478D-8F07-ACF1EA8F9843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03EDB29-A019-478D-8F07-ACF1EA8F9843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03EDB29-A019-478D-8F07-ACF1EA8F9843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03EDB29-A019-478D-8F07-ACF1EA8F9843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCEA0B8A-92C6-42C9-B4B0-4EB7665F706E}
+	EndGlobalSection
+EndGlobal
